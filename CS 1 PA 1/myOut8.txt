@@ -1,0 +1,30 @@
+PARKED
+PARKED
+PARKED
+PARKED
+Garage: GARAGE_A, Capacity: 3, Occupied: 1, Utilization: 33.33%
+Garage: GARAGE_B, Capacity: 4, Occupied: 0, Utilization: 0.00%
+Garage: GARAGE_C, Capacity: 3, Occupied: 3, Utilization: 100.00%
+Least Utilized: GARAGE_B
+FULL
+SUCCESS
+ABD123 NOT ON CAMPUS
+ABD723 GARAGE_C
+PARKED
+RELOCATION SUCCESSFUL.
+4
+PARKED
+FAIL. TOO SMALL TO ACCOMMODATE EXISTING VEHICLES.
+SUCCESS
+PARKED
+Garage: GARAGE_A, Capacity: 5, Occupied: 2, Utilization: 40.00%
+Garage: GARAGE_B, Capacity: 4, Occupied: 0, Utilization: 0.00%
+Garage: GARAGE_C, Capacity: 5, Occupied: 4, Utilization: 80.00%
+Least Utilized: GARAGE_B
+REGISTERED
+PARKED
+REMOVED FROM GARAGE_A
+GARAGE_C REMOVED
+Garage: GARAGE_A, Capacity: 5, Occupied: 1, Utilization: 20.00%
+Garage: GARAGE_B, Capacity: 4, Occupied: 1, Utilization: 25.00%
+Least Utilized: GARAGE_A

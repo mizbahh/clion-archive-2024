@@ -1,0 +1,46 @@
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+REGISTERED
+GARAGE_C NOT FOUND
+GARAGE_C NOT FOUND
+PARKED
+GARAGE_C NOT FOUND
+Garage: 20, Capacity: 0, Occupied: 0, Utilization: nan%
+Garage: GARAGE_A, Capacity: 3, Occupied: 1, Utilization: 33.33%
+Garage: GARAGE_B, Capacity: 4, Occupied: 0, Utilization: 0.00%
+Least Utilized: GARAGE_B
+GARAGE_C NOT FOUND
+SUCCESS
+ABD123 NOT ON CAMPUS
+ABD723 NOT ON CAMPUS
+DEF756 NOT ON CAMPUS
+15
+GARAGE_C NOT FOUND
+GARAGE_C NOT FOUND
+GARAGE_C NOT FOUND
+GARAGE_C NOT FOUND
+Garage: 20, Capacity: 0, Occupied: 0, Utilization: nan%
+Garage: GARAGE_A, Capacity: 5, Occupied: 1, Utilization: 20.00%
+Garage: GARAGE_B, Capacity: 4, Occupied: 0, Utilization: 0.00%
+Least Utilized: GARAGE_B
+REGISTERED
+PARKED
+REMOVED FROM GARAGE_A
+GARAGE_C NOT FOUND
+Garage: 20, Capacity: 0, Occupied: 0, Utilization: nan%
+Garage: GARAGE_A, Capacity: 5, Occupied: 0, Utilization: 0.00%
+Garage: GARAGE_B, Capacity: 4, Occupied: 1, Utilization: 25.00%
+Least Utilized: GARAGE_A
+MEMORY FREED

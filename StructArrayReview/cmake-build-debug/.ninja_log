@@ -1,0 +1,4 @@
+# ninja log v6
+1	53	1726103606807591869	build.ninja	791bf37f0bd0f351
+1	38	1726093272841071437	CMakeFiles/StructArrayReview.dir/main.c.o	b70f8a8e4ecf5681
+38	57	1726093272877947998	libStructArrayReview.a	40c08531557add92

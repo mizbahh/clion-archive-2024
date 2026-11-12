@@ -1,0 +1,3 @@
+/Users/mizbahateeq/CLionProjects/StructArrayReview/cmake-build-debug/CMakeFiles/StructArrayReview.dir
+/Users/mizbahateeq/CLionProjects/StructArrayReview/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mizbahateeq/CLionProjects/StructArrayReview/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/mizbahateeq/CLionProjects/CS 1 PA 1/cmake-build-debug/CMakeFiles/untitled1.dir
+/Users/mizbahateeq/CLionProjects/CS 1 PA 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mizbahateeq/CLionProjects/CS 1 PA 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
